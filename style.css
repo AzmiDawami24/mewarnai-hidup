@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 15px 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(70, 70, 70);
+  border-radius: 15px;
+}
+
+.mewarnai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+
+.wadah {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 140px;
+  font-size: 50px;
+}
+
+.h {
+  color: lightcoral;
+}
+
+.i {
+  color: blue;
+}
+
+.d {
+  color: khaki;
+}
+
+.u{
+  color: maroon;
+}
+
+.p {
+  color: aquamarine;
+}
